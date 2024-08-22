@@ -1,4 +1,4 @@
-# Collant temperature indicator for 
+# Collant temperature indicator for https://github.com/AlexVakhnin/ESP32-TWAI-BLE-TERMINAL
 
 ### Links
 
